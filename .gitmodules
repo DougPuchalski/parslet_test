@@ -1,0 +1,9 @@
+[submodule "vendor/lock-o-motion"]
+	path = vendor/lock-o-motion
+	url = git@github.com:aceofspades/lock-o-motion.git
+[submodule "vendor/MocRuby"]
+	path = vendor/MocRuby
+	url = git@github.com:aceofspades/MocRuby.git
+[submodule "vendor/parslet"]
+	path = vendor/parslet
+	url = git@github.com:aceofspades/parslet.git

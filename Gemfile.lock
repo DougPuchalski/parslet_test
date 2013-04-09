@@ -1,0 +1,18 @@
+PATH
+  remote: vendor/parslet
+  specs:
+    parslet (1.5.0)
+      blankslate (~> 2.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    blankslate (2.1.2.4)
+    colorize (0.5.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize
+  parslet!
